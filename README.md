@@ -1,4 +1,4 @@
-### Hi there [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)' alt='github' height='40'>](https://github.com/youri-pols), my name is Youri
+### Hi there [<img src='https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif' alt='github' height='40'>](https://github.com/youri-pols), my name is Youri
 #### I am Developer at @lincgit and Student
 
 Skills: NEXT JS / REACT / JS / HTML / CSS
