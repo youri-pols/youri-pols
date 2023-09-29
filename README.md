@@ -1,5 +1,5 @@
-### Hi there [<img src='https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif' alt='github' height='20'>], my name is Youri
-#### I am Developer at @lincgit(https://github.com/lincgit/) and Student
+### Hi there [<img src='https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif' alt='github' height='20'>](https://github.com/youri-pols/), my name is Youri
+#### I am Developer at LiNC and Student
 
 Skills: NEXT JS / REACT / JS / HTML / (S)CSS / PHP / C# / C++ / SQL / Swift / Python / Figma
 
